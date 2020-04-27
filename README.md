@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## BIUST-RESEARCH-ANALYSIS
 
 You can use the [editor on GitHub](https://github.com/beastgetssavvy13/BIUST-RESEARCH-ANALYSIS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
