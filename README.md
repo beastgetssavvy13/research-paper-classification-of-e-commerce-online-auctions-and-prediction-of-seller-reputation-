@@ -1,37 +1,19 @@
 ## BIUST-RESEARCH-ANALYSIS
 
-You can use the [editor on GitHub](https://github.com/beastgetssavvy13/BIUST-RESEARCH-ANALYSIS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Link: https://drive.google.com/file/d/168whyUBm9_N5lXw0gwGr-yDcYA2sMvys/view.
 
 Editor : Valarmathi B, Kavish Pandit, Charan Kumar Pyla, Chellatamilan T and Abid Yahya
 
 ### Classification of E-Commerce Online Auctions and Prediction of Seller Reputation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Seller reputation plays a vital role in the E commerce market. The significant profit and analysis of the overall giant venture which provides both observable and heterogeneous reputation for the online community sellers. Greater validation and performance outcomes to be provided in the optimal algorithm preferred.**
 
-```markdown
-Syntax highlighted code block
+1. A Kavish pandit
+Department of Information Technology School of Information Technology and Engineering
+Vellore Institute of Technology Vellore, India kavish.pandit2017@vitstudent.ac.in
 
-# Header 1
-## Header 2
-### Header 3
+2. Pyla charan kumar Department of Information Technology
+School of Information Technology and Engineering Vellore Institute of Technology
+Vellore, India pyla.charankumar2017@vitstudent.ac.in
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beastgetssavvy13/BIUST-RESEARCH-ANALYSIS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
