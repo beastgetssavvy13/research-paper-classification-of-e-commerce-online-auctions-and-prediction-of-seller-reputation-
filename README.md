@@ -2,9 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/beastgetssavvy13/BIUST-RESEARCH-ANALYSIS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Editor : Valarmathi B, Kavish Pandit, Charan Kumar Pyla, Chellatamilan T and Abid Yahya
 
-### Markdown
+### Classification of E-Commerce Online Auctions and Prediction of Seller Reputation
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
