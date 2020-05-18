@@ -1,8 +1,12 @@
 ## BIUST-RESEARCH-ANALYSIS
 
-Link: https://drive.google.com/file/d/168whyUBm9_N5lXw0gwGr-yDcYA2sMvys/view.
-<H3>Made a Research Paper<br></h3>
+Link :link: : https://drive.google.com/file/d/168whyUBm9_N5lXw0gwGr-yDcYA2sMvys/view.
+<H3>Made a Research Paper :newspaper: <br></h3>
 Editor : Valarmathi B, Kavish Pandit, Charan Kumar Pyla, Chellatamilan T and Abid Yahya
+
+## :busts_in_silhouette: Contributors
+- [Kavish Pandit](https://github.com/beastgetsssavvy13) 
+- [Pyla Charan Kumar](https://github.com/itscharanp)
 
 ### Classification of E-Commerce Online Auctions and Prediction of Seller Reputation
 
