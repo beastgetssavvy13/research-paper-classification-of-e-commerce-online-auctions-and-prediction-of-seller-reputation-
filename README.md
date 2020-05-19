@@ -1,6 +1,6 @@
 ## BIUST-RESEARCH-ANALYSIS
 
-Link :link: : https://drive.google.com/file/d/168whyUBm9_N5lXw0gwGr-yDcYA2sMvys/view.
+:link: Link : https://drive.google.com/file/d/168whyUBm9_N5lXw0gwGr-yDcYA2sMvys/view.
 <H3>Made a Research Paper :newspaper: <br></h3>
 Editor : Valarmathi B, Kavish Pandit, Charan Kumar Pyla, Chellatamilan T and Abid Yahya
 
